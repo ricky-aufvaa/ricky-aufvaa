@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ricky-aufvaa" alt="ricky-aufvaa" /></a> </p>
 
-- 🔭 I’m currently working on [Motionflix](https://github.com/ricky-aufvaa/MotionFlix)
+- 🔭 I’m currently working on [DocuMind]([https://github.com/ricky-aufvaa/MotionFlix](https://github.com/ricky-aufvaa/DocuMind))
 
-- 🌱 I’m currently learning **Backend web development.**
+- 🌱 I’m currently learning **GenAI Development.**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/sarabjot-singh-93256b22b/](https://www.linkedin.com/in/sarabjot-singh-93256b22b/)
 
-- 💬 Ask me about **HTML, CSS, JS, NodeJS, Bash**
+- 💬 Ask me about **HTML, CSS, JS, NodeJS, Bash, GenAI, Langchain, Numpy, LlamaIndex**
 
 - 📫 How to reach me **https://www.instagram.com/ric_clicks/**
 
