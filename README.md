@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ricky-aufvaa" alt="ricky-aufvaa" /></a> </p>
 
-- 🔭 I’m currently working on [DocuMind]([https://github.com/ricky-aufvaa/MotionFlix](https://github.com/ricky-aufvaa/DocuMind))
+- 🔭 I’m currently working on [DocuMind]([https://github.com/ricky-aufvaa/MotionFlix](https://github.com/ricky-aufvaa/DocuMind)
 
 - 🌱 I’m currently learning **GenAI Development.**
 
