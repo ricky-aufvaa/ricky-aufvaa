@@ -36,8 +36,11 @@ My broader interests include AI agents, LLM application architecture, developer 
 
 ## GitHub Statistics
 
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ricky-aufvaa&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent" height="165" alt="GitHub statistics" />
+</p>
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricky-aufvaa&layout=compact&hide_border=true&theme=transparent" height="165" alt="Most used programming languages" />
 </p>
 
@@ -46,7 +49,7 @@ My broader interests include AI agents, LLM application architecture, developer 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ricky-aufvaa&hide_border=true&theme=github-compact&area=true" width="100%" alt="GitHub contribution activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ricky-aufvaa&theme=github-compact&area=true" width="100%" alt="GitHub contribution activity graph" />
 </p>
 
 ---
