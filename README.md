@@ -46,9 +46,9 @@ My broader interests include AI agents, LLM application architecture, developer 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ricky-aufvaa&hide_border=true&theme=transparent" width="70%" alt="GitHub contribution streak" />
 </p>
 
-<p align="center">
+[<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ricky-aufvaa&theme=github-compact&area=true" width="100%" alt="GitHub contribution activity graph" />
-</p>
+</p>](https://github-readme-activity-graph.vercel.app/graph?username=ricky-aufvaa&hide_border=true&theme=github-compact&area=true)
 
 ---
 
