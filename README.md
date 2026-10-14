@@ -1,33 +1,71 @@
-<h1 align="center">Hi 👋, I'm Sarabjot Singh</h1>
-<h3 align="center">A passionate GenAI developer from India</h3>
+# Sarabjot Singh
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ricky-aufvaa&label=Profile%20views&color=0e75b6&style=flat" alt="ricky-aufvaa" /> </p>
+### AI Engineer | Generative AI | Full-Stack Development
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ricky-aufvaa" alt="ricky-aufvaa" /></a> </p>
+I build AI-powered applications and intelligent systems, with a focus on LLMs, retrieval-augmented generation, agentic workflows, and scalable backend engineering.
 
-- 🔭 I’m currently working on [Dynamic Resume Builder]([https://github.com/ricky-aufvaa/Dynamic-Resume-Builder](https://github.com/ricky-aufvaa/Dynamic-Resume-Builder)
+Currently working on AI-driven solutions and exploring ways to build more reliable, context-aware, and production-ready AI applications.
 
-- 🌱 I’m currently learning **AI Development.**
+[Website](https://portfolio-rho-one-93.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/sarabjot-singh-93256b22b/) · [GitHub](https://github.com/ricky-aufvaa) · [Email](mailto:sarabjot.singh799@gmail.com)
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/sarabjot-singh-93256b22b/](https://www.linkedin.com/in/sarabjot-singh-93256b22b/)
+---
 
-- 💬 Ask me about **HTML, CSS, JS, NodeJS, Bash, GenAI, Langchain, Numpy, LlamaIndex, LangGraph**
+## What I'm Working On
 
-- 📫 How to reach me **sarabjot.singh799@gmail.com**
+**[Dynamic Resume Builder](https://github.com/ricky-aufvaa/Dynamic-Resume-Builder)**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/sarabjot-singh-93256b22b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarabjot singh" height="30" width="40" /></a>
-<a href="https://instagram.com/ric_clicks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ric_clicks" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCPyErrFiM3ElYSeTl-UzYMQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ric_clicks" height="30" width="40" /></a>
+Building a tool to simplify resume creation and customization.
+
+My broader interests include AI agents, LLM application architecture, developer tools, and full-stack product development.
+
+## Technical Stack
+
+**Languages:** Python, JavaScript, C++, SQL, Bash
+
+**AI & Machine Learning:** Generative AI, LLMs, RAG, LangChain, LlamaIndex, LangGraph, Claude, Ollama
+
+**Databases & Retrieval:** Neo4j, FAISS, ChromaDB, vector databases, knowledge graphs
+
+**Backend & APIs:** FastAPI, Node.js, Express.js, REST APIs
+
+**Frontend:** React, Next.js, HTML, CSS
+
+**Cloud & Infrastructure:** AWS, Google Cloud, Docker, Git, Linux
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ricky-aufvaa&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricky-aufvaa&layout=compact&hide_border=true&theme=transparent" height="165" alt="Most used programming languages" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ricky-aufvaa&hide_border=true&theme=transparent" width="70%" alt="GitHub contribution streak" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ricky-aufvaa&show_icons=true&locale=en&layout=compact" alt="ricky-aufvaa" /></p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ricky-aufvaa&hide_border=true&theme=github-compact&area=true" width="100%" alt="GitHub contribution activity graph" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ricky-aufvaa&show_icons=true&locale=en" alt="ricky-aufvaa" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ricky-aufvaa&" alt="ricky-aufvaa" /></p>
+## Selected Projects
 
+- **[Dynamic Resume Builder](https://github.com/ricky-aufvaa/Dynamic-Resume-Builder)** — Resume creation and customization.
+- **[WebCraft AI](https://github.com/ricky-aufvaa)** — AI-assisted application development.
+- **[DocuMind](https://github.com/ricky-aufvaa)** — Document-focused AI and information retrieval.
+- **[Explore All Projects](https://github.com/ricky-aufvaa?tab=repositories)** — More experiments, applications, and engineering work.
+
+---
+
+## Let's Connect
+
+I'm interested in AI engineering opportunities, challenging technical problems, and collaborating on useful software products.
+
+- Website: https://portfolio-rho-one-93.vercel.app/
+- LinkedIn: https://www.linkedin.com/in/sarabjot-singh-93256b22b/
+- Email: sarabjot.singh799@gmail.com
+- Instagram: https://instagram.com/ric_clicks
+- YouTube: https://www.youtube.com/channel/UCPyErrFiM3ElYSeTl-UzYMQ
